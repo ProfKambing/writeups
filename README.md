@@ -1,2 +1,2 @@
 # writeups
-random shit i write lol
+Random writes about stuff when I feel like it.
