@@ -1,2 +1,2 @@
 # writeups
-idk
+random shit i write lol
