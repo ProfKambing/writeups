@@ -6,7 +6,7 @@ The pastebins are terminated and the webhook is nuked, so dont worry running old
 ## Investigating 
 thanks to [Sxmurai](https://github.com/Sxmurai/renosense-RATs) for providing these. The rat is located in CFont.java but the file is never used.
 Zopac used bytes to avoid suspicion.
-[bytes](https://antiaim.org/stsyvbx7)
+![bytes](https://cdn.upload.systems/uploads/stsyvbx7.png)
 
 ## Deep dive
 after translating it, theres one pastebin link (which is termed).
