@@ -5,12 +5,16 @@ The pastebins are terminated and the webhook is nuked, so dont worry running old
 
 ## Investigating 
 thanks to [Sxmurai](https://github.com/Sxmurai/renosense-RATs) for providing these. The rat is located in CFont.java but the file is never used.
+
 Zopac used bytes to avoid suspicion.
+
 ![bytes](https://cdn.upload.systems/uploads/stsyvbx7.png)
 
 ## Deep dive
 after translating it, theres one pastebin link (which is termed).
+
 How it works is it install INSTALLER.jar and it install CLIENT.jar then it rats the user by installing SERVER.jar.
+
 All of this was done in resource cache so you wont even know that you gave zopac free alts.
 
 ## How to avoid
